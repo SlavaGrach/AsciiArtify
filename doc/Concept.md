@@ -22,7 +22,7 @@ AsciiArtify is a startup dedicated to creating a new software product that uses 
 | K3d       | Efficient resource usage, fast setup               | May have compatibility issues with certain setups  |
 
 ##Demo
-
+[![asciicast](https://asciinema.org/a/653975.svg)](https://asciinema.org/a/5ZWXSrB4bh5RpG8Aq1GwP8TQV)
 
 ## Conclusion
 
