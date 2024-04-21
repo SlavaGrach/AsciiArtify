@@ -1,7 +1,4 @@
-# SRE Competency Matrix (Лопата Компетенцій)
-Competency Matrix for Site Reliability Engineering (SRE)
-
-Youtube Episode: https://youtu.be/liCoNksG_hM
+Comparative Analysis of Kubernetes Deployment Tools: Minikube, Kind, K3d
 
 | Skills                              | Junior SRE Tools/Technologies                                     | Middle SRE Tools/Technologies                                       | Senior SRE Tools/Technologies                                                        | Principal SRE Tools/Technologies                                                  |
 |-------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
